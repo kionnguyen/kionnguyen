@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kionnguyen
-- 👀 I’m interested in Micro System
+- 👀 I’m interested in MEMS
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kiennk1230@gmail.com
